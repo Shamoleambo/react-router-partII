@@ -1,4 +1,4 @@
-import classes from './EventsList.module.css';
+import classes from './EventsList.module.css'
 
 function EventsList({ events }) {
   return (
@@ -18,7 +18,7 @@ function EventsList({ events }) {
         ))}
       </ul>
     </div>
-  );
+  )
 }
 
-export default EventsList;
+export default EventsList
